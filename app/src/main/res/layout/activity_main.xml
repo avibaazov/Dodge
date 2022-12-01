@@ -89,6 +89,8 @@
         android:scaleType="centerCrop"
         app:srcCompat="@drawable/car2" />
 
+
+
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/meteor1"
         android:layout_width="79dp"
